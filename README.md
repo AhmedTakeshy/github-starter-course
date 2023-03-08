@@ -105,3 +105,25 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# Hello this my contribution to this project
+
+## Introduction
+### Personal Information
+* My name is Ahmed Takeshy from Egypt settled in Kayseri Turkey
+* [Portfolio](https://takeshy.works/)
+* [LinkedIn](https://www.linkedin.com/in/ahmed-abdelsamie-a1a46a166/)
+
+### My Skills
+* HTML
+* CSS
+* JavaScript
+* React
+
+### My Hobbies
+* Watching movies
+* Listening to music
+* Reading articles about technology
+
+Thank you for providing such a great opportunity to learn and practice GitHub
